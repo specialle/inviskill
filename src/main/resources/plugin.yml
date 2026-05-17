@@ -1,0 +1,10 @@
+name: InvisKills-Folia
+version: '${version}'
+main: io.inviskills.InvisKillsPlugin
+api-version: '1.21'
+folia-supported: true
+description: >
+  Keeps invisible players off the tab list, obfuscates their names
+  in death messages, and scrambles their advancement announcements
+  — all with enchantment-table gibberish (§k) flavour.
+authors: [ InvisKills-Folia ]
