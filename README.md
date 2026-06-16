@@ -1,5 +1,3 @@
-
-            #Antiseedcracker
 Seed Protection for Paper & Folia 1.21.4+
 
 Most anti-seed plugins just block /seed. But nobody who actually cracks seeds uses /seed.
